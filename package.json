@@ -1,0 +1,24 @@
+{
+  "name": "curd",
+  "version": "1.0.0",
+  "description": "Curl+Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaganWinter/curd.git"
+  },
+  "keywords": [],
+  "author": "PaganWinter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaganWinter/curd/issues"
+  },
+  "homepage": "https://github.com/PaganWinter/curd#readme",
+  "dependencies": {
+    "js-yaml": "^3.12.0",
+    "request": "^2.88.0"
+  }
+}
